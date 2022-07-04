@@ -1,0 +1,10 @@
+.check-box {
+  min-width: 70px;
+  min-height: 70px;
+}
+.color-white {
+  background-color: white;
+}
+.color-black {
+  background-color: black;
+}
